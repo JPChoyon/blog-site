@@ -6,6 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Technical blog",
   description: "A technical blog website",
+  keyword:'blog, technical, technology, bloging website for technology, best websit, next js website',  
 };
 
 export default function RootLayout({ children }) {
