@@ -14,11 +14,11 @@ export const metadata = {
     "jp choyon khan",
   ],
   authors: [
-    { name: "J P Choyon khan" },
+    { name: "J P Choyon Khan" },
     { name: "choyon", url: "https://webdevjpck.web.app" },
   ],
-  creator: "J P Choyon khan",
-  publisher: "J P Choyon khan",
+  creator: "J P Choyon Khan",
+  publisher: "J P Choyon Khan",
 };
 
 export default function RootLayout({ children }) {
