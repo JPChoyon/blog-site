@@ -6,7 +6,7 @@ const Home = () => {
       <section className="w-full flex-center
       flex-col">
       <h1 cLassName="head_text text-center">
-        Discover & Share
+        Discover & Share your experiance
       </h1>
     </ section>
     </div>
