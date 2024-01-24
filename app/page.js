@@ -10,6 +10,8 @@ const Home = () => {
         </h1>
         <h2>this is the main component
           git push
+          i think now all ok
+          
         </h2>
     </ section>
     </div>
