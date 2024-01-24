@@ -7,7 +7,10 @@ const Home = () => {
       flex-col">
       <h1 cLassName="head_text text-center">
         Discover & Share your experiance
-      </h1>
+        </h1>
+        <h2>this is the main component
+          git push
+        </h2>
     </ section>
     </div>
   );
