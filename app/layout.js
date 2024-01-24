@@ -2,7 +2,7 @@ import "../styles/globals.css";
 
 export const metadata = {
   title: "Techifia",
-  description: " Discover & Share Technical News",
+  description: " Discover & Share Technical News fo the better",
 };
 
 const RootLayout = ({ children }) => {
